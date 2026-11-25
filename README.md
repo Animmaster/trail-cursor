@@ -1,3 +1,10 @@
+
+
+<img width="500" height="310" alt="ScreenRecording2026-11-25at12 40 02-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/fa77f86e-f577-4a63-b1f5-2cf24b97068e" />
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
