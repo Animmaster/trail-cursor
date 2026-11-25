@@ -1,0 +1,14 @@
+.image-trail {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-trail .trail-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 7rem;
+  height: auto;
+  pointer-events: none;
+  z-index: 1;
+}
